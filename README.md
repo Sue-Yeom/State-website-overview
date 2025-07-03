@@ -4,6 +4,9 @@
 This repository contains my submission for the WGU Front-End Development Project.  
 It features a multi-page informational website about one U.S. state and three of its cities.
 
+> 🔒 **Note:** This repository contains a project overview only.  
+> The full source code is kept private in compliance with WGU’s Academic Authenticity Policy.  
+
 ###  Tech Stack
 
 - **HTML5** – Semantic structure using `header`, `nav`, `section`, `aside`
