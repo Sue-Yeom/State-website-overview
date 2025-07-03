@@ -1,4 +1,4 @@
-## State Website Project
+## State Website Project (java script programming)
 
 ![Home Page](images/screenshot.png)
 This repository contains my submission for the WGU Front-End Development Project.  
