@@ -1,6 +1,6 @@
 ## State Website Project (java script programming)
 
-![Home Page](images/screenshot.png)
+![Home Page](image/screenshot.png)
 This repository contains my submission for the WGU Front-End Development Project.  
 It features a multi-page informational website about one U.S. state and three of its cities.
 
